@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="ro.pub.cs.systems.eim.practicaltest01var08.PracticalTest01Var08MainActivity" >
+
+    <EditText
+        android:id="@+id/riddle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:saveEnabled="false"
+        android:enabled="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:layout_centerVertical="true"/>
+
+    <EditText
+        android:id="@+id/answer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:saveEnabled="false"
+        android:enabled="true"
+        android:layout_below="@id/riddle"
+        android:gravity="center" />
+
+
+    <Button
+        android:id="@+id/play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@id/answer"
+        android:text="@string/play" />
+
+</RelativeLayout>

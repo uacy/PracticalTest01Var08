@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4de024720b12e7b01bb3306ba48fef2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/uacy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a56c45d1b657a7fe0cb6a43e00d977a7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/ef6a785a2e71b3df6d4f01e05198cc8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/ffeb6dac471cea7e97f0d69c0ed55e4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d97160eac71771e2c1bee28abb25c092/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/033a988018e4930d9a4cc802d42ebf22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/1c5ab692bdbc9c65f24516e03dafc5d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/ea7254b845d40b41c1f66bad8be00c81/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/208a673ea7126a8c1a81ee0c1f8d4bd6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f7573dff67d98a5808f7405dd85df507/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/41497920be911d15c47c8dcaa232f0c0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/93fa5440108e4802b6a4cf9deb12ea2f/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:3:5-57
+		INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+		INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/uacy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a56c45d1b657a7fe0cb6a43e00d977a7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/uacy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a56c45d1b657a7fe0cb6a43e00d977a7/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:11:9-40
+activity#ro.pub.cs.systems.eim.practicaltest01var08.PracticalTest01Var08MainActivity
+ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:12:19-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:16:27-74
+activity#ro.pub.cs.systems.eim.practicaltest01var08.PracticalTest01Var08PlayActivity
+ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:19:9-26:20
+	android:label
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:21:13-57
+	android:name
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:20:13-61
+intent-filter#action:name:ro.pub.cs.systems.eim.intent.action.PracticalTest01PlayActivity+category:name:android.intent.category.DEFAULT
+ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:22:13-25:29
+action#ro.pub.cs.systems.eim.intent.action.PracticalTest01PlayActivity
+ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:23:17-106
+	android:name
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:23:25-103
+category#android.intent.category.DEFAULT
+ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml:24:27-73
+uses-sdk
+INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4de024720b12e7b01bb3306ba48fef2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4de024720b12e7b01bb3306ba48fef2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/uacy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a56c45d1b657a7fe0cb6a43e00d977a7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/uacy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a56c45d1b657a7fe0cb6a43e00d977a7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/ef6a785a2e71b3df6d4f01e05198cc8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/ef6a785a2e71b3df6d4f01e05198cc8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/ffeb6dac471cea7e97f0d69c0ed55e4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/ffeb6dac471cea7e97f0d69c0ed55e4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d97160eac71771e2c1bee28abb25c092/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d97160eac71771e2c1bee28abb25c092/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/033a988018e4930d9a4cc802d42ebf22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/033a988018e4930d9a4cc802d42ebf22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/1c5ab692bdbc9c65f24516e03dafc5d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/1c5ab692bdbc9c65f24516e03dafc5d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/ea7254b845d40b41c1f66bad8be00c81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/ea7254b845d40b41c1f66bad8be00c81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/208a673ea7126a8c1a81ee0c1f8d4bd6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/208a673ea7126a8c1a81ee0c1f8d4bd6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f7573dff67d98a5808f7405dd85df507/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f7573dff67d98a5808f7405dd85df507/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/41497920be911d15c47c8dcaa232f0c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/41497920be911d15c47c8dcaa232f0c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/93fa5440108e4802b6a4cf9deb12ea2f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/uacy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/93fa5440108e4802b6a4cf9deb12ea2f/AndroidManifest.xml:20:5-44
+INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+		INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+		ADDED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml
+		INJECTED from /home/uacy/AndroidStudioProjects/AndroidTests/PracticalTest01Var08/app/src/main/AndroidManifest.xml

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticalTest01Var08</string>
+    <string name="riddle">Riddle</string>
+    <string name="answer">Answer</string>
+    <string name="play">Play</string>
+    <string name="title_secondactivity">Play the game</string>
+    <string name="check_btn">Check</string>
+    <string name="back_btn">Back</string>
+</resources>
